@@ -56,7 +56,7 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 ### Milestone 3
  - Transition to world 2
  - Add sound effects
- - -Add music
+ - Add music
  - Add an end to the game
  ### Additions for the future:
    - Store for skins
