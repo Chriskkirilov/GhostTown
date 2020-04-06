@@ -60,8 +60,8 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
  - Add an end to the game
  
  ### Helpful links:
--  [Kanbanize workflow table] (https://tues.kanbanize.com/ctrl_board/10/)
--  [Official documentation] (https://docs.google.com/document/d/11q65uNjO4h22QurJdhB44p65arYhBkt-UprJ0awTIv8/edit#heading=h.nrvvc5fuj2uj)
+-  [Kanbanize workflow table](https://tues.kanbanize.com/ctrl_board/10/)
+-  [Official documentation](https://docs.google.com/document/d/11q65uNjO4h22QurJdhB44p65arYhBkt-UprJ0awTIv8/edit#heading=h.nrvvc5fuj2uj)
 
  ### Additions for the future:
    - Store for skins
