@@ -72,3 +72,4 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
    - Health bar
    - More settings. The may include screen resolution, quality, fullscreen button and SFX volume.
    - Upgrade the look of the menu/s
+ 
