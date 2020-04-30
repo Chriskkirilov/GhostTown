@@ -49,14 +49,17 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 ### Milestone 2
  - Put buildings
  - Put obstacles at a random time
- - Add points
+ - Add points (possibly)
  - Detect obstacle collision
  - Add a Main Menu:
  - Sound settings
 ### Milestone 3
  - Transition to world 2
  - Add sound effects
+ - Add visual effects and transitions
  - Add music
+ - Add pause menu
+ - Add save and load system
  - Add an end to the game
  
  ### Helpful links:
@@ -65,6 +68,7 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 
  ### Additions for the future:
    - Store for skins
-   - More settings
    - Visual effecs
    - Health bar
+   - More settings. The may include screen resolution, quality, fullscreen button and SFX volume.
+   - Upgrade the look of the menu/s
