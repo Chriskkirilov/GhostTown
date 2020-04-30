@@ -47,7 +47,7 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 - Endless parallax movement for both of the backgrounds
 
 ### Milestone 2
- - Put buildings at a random time
+ - Put buildings
  - Put obstacles at a random time
  - Add points
  - Detect obstacle collision
