@@ -47,13 +47,14 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 - Endless parallax movement for both of the backgrounds
 
 ### Milestone 2
+ - Character sprite sheet frame movement
  - Put buildings
  - Put obstacles at a random time
  - Add points (possibly)
- - Detect obstacle collision
  - Add a Main Menu:
  - Sound settings
 ### Milestone 3
+ - Detect obstacle collision
  - Transition to world 2
  - Add sound effects
  - Add visual effects and transitions
