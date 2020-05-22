@@ -1,5 +1,6 @@
 
 # Ghost Town
+![](https://github.com/Kristiyan17/GhostTown/blob/master/Game_everything/Game%20Graphics/Graphics_Worlds/logo2.png)
 ## Overview
 The project is a 2D Runner type game, developed by 2 students, based in Sofia, Bulgaria.
 
