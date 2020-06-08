@@ -1,5 +1,6 @@
 
 # Ghost Town
+![](https://github.com/Kristiyan17/GhostTown/blob/master/Game_everything/Game%20Graphics/Graphics_Worlds/logo2.png)
 ## Overview
 The project is a 2D Runner type game, developed by 2 students, based in Sofia, Bulgaria.
 
@@ -47,19 +48,30 @@ Our milestones are roughly divided into 3 but are liable to changes during the w
 - Endless parallax movement for both of the backgrounds
 
 ### Milestone 2
- - Put buildings at a random time
+ - Character sprite sheet frame movement
+ - Put buildings
  - Put obstacles at a random time
- - Add points
- - Detect obstacle collision
+ - Add points (possibly)
  - Add a Main Menu:
  - Sound settings
 ### Milestone 3
+ - Detect obstacle collision
  - Transition to world 2
  - Add sound effects
- - -Add music
+ - Add visual effects and transitions
+ - Add music
+ - Add pause menu
+ - Add save and load system
  - Add an end to the game
+ 
+ ### Helpful links:
+-  [Kanbanize workflow table](https://tues.kanbanize.com/ctrl_board/10/)
+-  [Official documentation](https://docs.google.com/document/d/11q65uNjO4h22QurJdhB44p65arYhBkt-UprJ0awTIv8/edit#heading=h.nrvvc5fuj2uj)
+
  ### Additions for the future:
    - Store for skins
-   - More settings
    - Visual effecs
    - Health bar
+   - More settings. The may include screen resolution, quality, fullscreen button and SFX volume.
+   - Upgrade the look of the menu/s
+
